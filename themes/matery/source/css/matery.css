@@ -273,6 +273,10 @@ mark {
     margin-bottom: 0;
 }
 
+.container .row1 {
+    display: none;
+}
+
 .bg-color {
     background-image: linear-gradient(to right, #bf30ac 0%, #0f9d58 100%);
     opacity: 1;
@@ -398,7 +402,7 @@ header .side-nav .social-link {
 
 .cover-btns {
     position: relative;
-    top: 10vh;
+    top: 5vh;
     text-align: center;
 }
 
@@ -428,7 +432,7 @@ header .side-nav .social-link {
 
 .cover-social-link {
     position: relative;
-    top: 18vh;
+    top: 3vh;
     text-align: center;
 }
 
@@ -468,7 +472,7 @@ header .go-back i {
 }
 
 .index-cover {
-    height: 100vh;
+    height: 40vh;
 }
 
 .post-cover {
@@ -498,10 +502,10 @@ header .go-back i {
 }
 
 .bg-cover .title {
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 700;
-    line-height: 1.85em;
-    margin-bottom: 20px;
+    line-height: 0.5em;
+    /*margin-bottom: 20px;*/
     position: relative;
 }
 

@@ -7,13 +7,13 @@ title: bill的博客
 subtitle: 
 description: 华东交通大学 | 区块链工程师 | golang rust
 keywords: "Golang Rus Bill 数据结构和算法 网络 设计模式"
-author: 
+author: bill 
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://github.com/billbliu/billbliu.github.io
+url: https://billbliu.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

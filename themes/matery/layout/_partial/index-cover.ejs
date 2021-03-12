@@ -79,7 +79,7 @@ var coverPostsCount = coverPosts.length;
                 </a>
                 <% } %>
             </div>
-            <div class="cover-social-link"><%- partial('_partial/social-link') %></div>
+            <!--<div class="cover-social-link"><%- partial('_partial/social-link') %></div>-->
         </div>
     </div>
 
@@ -116,10 +116,15 @@ var coverPostsCount = coverPosts.length;
                     <div class="title center-align"><%- post.title %></div>
                     <div class="description center-align">
                     <% if (post.summary && post.summary.length > 0) { %>
+                        <%- post.summary %>                 
+                    <% } %>
+					<!--
+					 <% if (post.summary && post.summary.length > 0) { %>
                         <%- post.summary %>
                     <% } else { %>
                         <%- strip_html(post.content).substring(0, 120) %>
                     <% } %>
+					-->
                     </div>
                     <div class="cover-btns">
                         <a href="<%- url_for(post.path) %>" class="waves-effect waves-light btn" target="_blank">

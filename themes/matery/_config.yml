@@ -35,7 +35,7 @@ cover:
 # index page dream text,
 # 配置首页显示"梦想"的语句.
 dream:
-  enable: true
+  enable: false
   showTitle: true
   title: 挖矿中
   text: 如果能够穿越到08年,你会干什么？
