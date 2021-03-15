@@ -180,16 +180,16 @@ myProjects:
       iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
       url: https://github.com/billbliu/hexo-matery-modified
       desc: 我的博客源码。
-    Span-Linearization-Parser:
+    leetcode:
         icon: fa-database
         iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
         url: https://github.com/AntNLP/span-linearization-parser
-        desc: 基于PyTorch的成分句法分析模型，ACL2020论文源码。
-    ECNU-BeamerTemplate:
+        desc: Golang、Rust题解LeetCode,覆盖测试,最少用时.
+    go-statemachine:
         icon: fa-file-text-o
         iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
         url: https://github.com/godweiyang/ECNU_BeamerTemplate
-        desc: 基于Latex Beamer的华东师范大学PPT模板。
+        desc: filecoin状态机代码库.
 
 # config my skills informations in about page.
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.

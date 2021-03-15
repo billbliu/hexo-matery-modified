@@ -114,9 +114,9 @@ deploy:
 - type: git
   repository:
     github: git@github.com:billbliu/billbliu.github.io.git
-    coding: git@github.com:billbliu/billbliu.github.io.git
+    #coding: git@github.com:billbliu/billbliu.github.io.git
   branch: master
-- type: baidu_url_submitter
+#- type: baidu_url_submitter
 
 
 live2d:
