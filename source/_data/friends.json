@@ -1,44 +1,44 @@
 [
     {
+        "name": "ipfs",
+        "url": "https://github.com/ipfs",
+        "title": "访问主页",
+        "introduction": "ipfs github仓库",
+        "avatar": "/medias/avatars/ipfs.jpg"
+    },
+    {
+        "name": "libp2p",
+        "url": "https://github.com/libp2p",
+        "title": "访问主页",
+        "introduction": "libp2p github仓库",
+        "avatar": "/medias/avatars/libp2p.png"
+    },
+    {
+        "name": "multiformats",
+        "url": "https://github.com/multiformats",
+        "title": "访问主页",
+        "introduction": "multiformats github仓库",
+        "avatar": "/medias/avatars/multiformats.png"
+    },
+    {
+        "name": "filecoin",
+        "url": "https://github.com/filecoin-project",
+        "title": "访问主页",
+        "introduction": "filecoin github仓库",
+        "avatar": "/medias/avatars/filecoin.png"
+    },
+    {
+        "name": "知乎专栏",
+        "url": "https://zhuanlan.zhihu.com/ipfsguide",
+        "title": "访问主页",
+        "introduction": "ipfs指南",
+        "avatar": "/medias/avatars/filecoin.png"
+    },
+    {
         "name": "知乎专栏",
         "url": "https://zhuanlan.zhihu.com/godweiyang",
         "title": "访问主页",
         "introduction": "算法码上来",
         "avatar": "/medias/avatars/myzhihu.png"
-    },
-    {
-        "name": "孙长志",
-        "url": "https://www.czsun.site",
-        "title": "访问主页",
-        "introduction": "AntNLP博士大师兄！",
-        "avatar": "/medias/avatars/sunchangzhi.jpg"
-    },
-    {
-        "name": "纪焘",
-        "url": "https://taoji.site",
-        "title": "访问主页",
-        "introduction": "AntNLP博士带明星！",
-        "avatar": "/medias/avatars/jitao.jpg"
-    },
-    {
-        "name": "hzwer",
-        "url": "https://hzwer.com/",
-        "title": "访问主页",
-        "introduction": "北京大学计算机系",
-        "avatar": "/medias/avatars/hzwer.jpg"
-    },
-    {
-        "name": "徐铭辰的博客",
-        "url": "https://michaelxucs.com",
-        "title": "访问主页",
-        "introduction": "埃克塞特大学计算机系",
-        "avatar": "/medias/avatars/michael.jpg"
-    },
-    {
-        "name": "lucifer的博客",
-        "url": "https://lucifer.ren/blog/",
-        "title": "访问主页",
-        "introduction": "一个脑洞很大的程序员。",
-        "avatar": "https://tva1.sinaimg.cn/large/006tNbRwly1ga7ognflh9j30b40b4q3w.jpg"
     }
 ]
